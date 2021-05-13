@@ -10,7 +10,7 @@ First you have to install the required models bellow:
 - pip install random
 
 # Runing Code
-Open the senddm python file and than enter your account information :
+Open the senddm python file and than enter your account informations :
 "account = InstaDM(username='Here' ,password='Here',headless=False)"
 
 also liste of users you wanna send message to :
